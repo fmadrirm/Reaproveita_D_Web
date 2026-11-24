@@ -23,5 +23,5 @@ HTML · CSS · Tailwind · GitHub
 
 Equipe: 
 
-Flavia Regina Madri
+Flavia Regina Madri |
 Heloísa Vitória Pacazza
